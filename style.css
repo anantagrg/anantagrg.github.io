@@ -47,7 +47,7 @@ table {
 /**************************************************/
 
 #main {
-    width: 960px;
+    width: 1080px;
     margin: 0px auto;
 }
 
@@ -140,7 +140,7 @@ h1 {
 
 .recent-work {
     height: 200px;
-    width: 900px;
+    width: 1080px;
     padding-bottom: 35px;
     overflow-x: scroll;
     overflow-y: hidden;
